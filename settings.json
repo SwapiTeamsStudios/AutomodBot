@@ -1,0 +1,6 @@
+{
+    "version": "1.0",
+    "token": "token",
+    "automod": true,
+    "bannedwords": ["parola", "testo"]
+}
